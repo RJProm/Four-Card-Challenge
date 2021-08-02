@@ -1,0 +1,161 @@
+body {
+    background-color: hsl(0, 0%, 98%);
+    font-family: 'Poppins', sans-serif;
+    font-size: 15px;
+    text-align: center;
+}
+
+h1 {
+  margin: 0px;
+  color: hsl(234, 12%, 34%);
+  font-size: 1.55em;
+}
+
+h3 {
+    color: hsl(234, 12%, 34%);
+    text-align: left;
+    font-size: 1.2em;
+    margin-left: auto;
+    margin-right: auto;
+    width: 85%;
+}
+
+p {
+    color: hsl(229, 6%, 66%);
+    font-size: 0.85em;
+    margin: 0px auto;
+    width: 85%;
+}
+
+a{
+    width: auto;
+    text-decoration: none;
+}
+
+.first-heading {
+    font-weight: 200;
+    margin-top: 50px;
+}
+
+.second-heading {
+    font-weight: 600;
+    margin-bottom: 30px;
+}
+
+.info-box {
+    background-color: white;
+    width: 85%;
+    height: 200px;
+    margin: 30px auto;
+    border-radius: 10px;
+    box-shadow: 0px 10px 10px 0px hsl(229, 6%, 66%);
+    position: relative;
+}
+
+.info-box:hover {
+    border-top-width: 10px;
+}
+
+.box-paragraph {
+    font-size: smaller;
+    width: 85%;
+    text-align: left;
+}
+
+.box-img { 
+    display: inline-block;
+    text-align: left;
+    position: absolute;
+    right: 20px;
+    bottom: 20px;
+}
+
+.supervisor-box {
+    border-top: 5px solid hsl(180, 62%, 55%);
+}
+
+.team-builder-box {
+    border-top: 5px solid hsl(0, 78%, 62%);
+}
+
+.karma-box {
+    border-top: 5px solid hsl(34, 97%, 64%);
+}
+
+.calculator-box {
+    border-top: 5px solid hsl(212, 86%, 64%);
+}
+
+.attribution { 
+    font-size: 11px; 
+    text-align: center;
+    width: 100%;
+}
+
+.attribution a { 
+    color: hsl(228, 45%, 44%); 
+}
+
+@media only screen and (min-width: 376px){
+    h1{
+        font-size: 2em;
+    }
+
+    h3{
+        font-size: 1.35em
+    }
+
+    p{
+        font-size: 1em;
+        width: 35%;
+    }
+
+    .info-box {
+        width: 350px;
+        height: 245px;
+        margin: 0px auto;
+    }
+
+    .box-paragraph {
+        width: 75%;
+    }
+
+    .box-img { 
+        bottom: 25px;
+        right: 20px;
+    }
+
+    .center-box{
+        display: inline-block;
+        margin: 60px 40px 60px 40px;
+    }
+
+    .supervisor-box {
+        margin: auto;
+        display: inline-block;
+        position: relative;
+        bottom: 140px;
+    }
+
+    .karma-box {
+        margin-top: 50px;
+    }
+
+    .calculator-box {
+        margin: auto;
+        display: inline-block;
+        position: relative;
+        bottom: 140px;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
