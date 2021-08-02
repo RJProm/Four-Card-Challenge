@@ -32,8 +32,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://rjprom.github.io/Four-Card-Challenge/](https://your-solution-url.com)
-- Live Site URL: [https://rjprom.github.io/Four-Card-Challenge/](https://your-live-site-url.com)
+- Solution URL: [Solution](https://rjprom.github.io/Four-Card-Challenge/)
+- Live Site URL: [Live Site](https://rjprom.github.io/Four-Card-Challenge/)
 
 ## My process
 
